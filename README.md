@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Snneva
-- 👀 I’m interested in Automation, Robotic, And System Control
-- 🌱 I’m currently learning Mechatronic
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Automation, Robotic, Artificial intelligence, And System Control
+- 🌱 I’m currently learning Mechatronic Engineering
 
 <!---
 Snneva/Snneva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
