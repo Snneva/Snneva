@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erlanda Miko, you can call me 'Erland' or 'Snneva' that username my friend give me recently
 - 👀 I’m interested in Automation, Robotic, Artificial intelligence, And System Control
-- 🌱 I’m currently learning Mechatronic Engineering
+- 🌱 I’m currently studying Mechatronic Engineering
 
 <!---
 Snneva/Snneva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
