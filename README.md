@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Snneva
+- 👋 Hi, I’m Erlanda Miko, you can call me 'Erland' or 'Snneva' that username that my friend give me recently
 - 👀 I’m interested in Automation, Robotic, Artificial intelligence, And System Control
 - 🌱 I’m currently learning Mechatronic Engineering
 
