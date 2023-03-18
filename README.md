@@ -1,6 +1,7 @@
 - Hi, I’m Erlanda Miko, you can call me 'Erland' or 'Snneva' that nickname my friend give me recently
 - I’m interested research about Automation, Robotic, Artificial intelligence, And System Control
-- I’m currently pursuing Mechatronics Engineering Technology at Jember State Polytechnic
+- I’m currently pursuing Mechatronics Engineering Technology at @ [Jember State Polytechnic](https://teknik.polije.ac.id/teknologi-rekayasa-mekatronika). 
+
 - You can contact me via email erlandamiko55@gmail.com
 
 <!---
